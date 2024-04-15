@@ -6,6 +6,7 @@
 - ⚙️ I use daily: `javascript`, `golang`, `serverless`, `react`,  `.ts`, `next`, `graphql`, `electron`, `Github Actions For CI/CD`, `AWS Lambda` and `Python`
 - Currently learning: `Next.js`, `React Native`
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/akki907/)
+- 📫 Portfolio @ [Portfolio](https://portfolio-app-akash.vercel.app/) 
 
 
 <img src="https://user-images.githubusercontent.com/993962/162679505-bb93c35d-6d2d-435d-b204-de1ad38c8924.gif" width="250" />
