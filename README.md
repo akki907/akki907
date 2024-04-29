@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there <img src="waving.gif" width="40"/>
+
+<table>
+  <tr>
+    <td valign="top"><img src="littledude.gif" width="180"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=akki907&show_icons=true&theme=github_dark"/></td>
+  </tr>
+</table>
+
+**`Akash kumar`**
 
 #### I'm a Full Stack Developer :
 
