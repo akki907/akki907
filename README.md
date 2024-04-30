@@ -1,9 +1,12 @@
-### Hello there <img src="waving.gif" width="40"/>
+### Hello there <img src="waving.gif" width="40"/> 
+
+<p><img src="littledude.gif" width="180"/></p>
 
 <table>
   <tr>
-    <td valign="top"><img src="littledude.gif" width="180"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=akki907&show_icons=true&theme=github_dark"/></td>
+    <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akki907&show_icons=true&locale=en&layout=compact" alt="akki907" /></td>
+
   </tr>
 </table>
 
@@ -37,4 +40,5 @@
     <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
 </p>
+
 <br>
